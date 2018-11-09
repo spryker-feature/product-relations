@@ -1,0 +1,15 @@
+{
+  "name": "spryker-feature/product-relations",
+  "description": "Product Relations [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/product": "~2018.11.0",
+    "spryker-shop/product-relation-widget": "^1.1.0",
+    "spryker/product-relation": "^2.1.6",
+    "spryker/product-relation-collector": "^2.0.3",
+    "spryker/product-relation-storage": "^1.1.0"
+  }
+}
