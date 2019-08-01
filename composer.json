@@ -8,7 +8,7 @@
   "require": {
     "php": ">=7.1",
     "spryker-shop/product-relation-widget": "^1.1.0",
-    "spryker/product-relation": "^2.2.0",
+    "spryker/product-relation": "^2.3.0",
     "spryker/product-relation-storage": "^1.4.0"
   },
   "extra": {
