@@ -15,5 +15,5 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [ProductRelationCollector ^2.0.3](https://github.com/spryker/product-relation-collector) (Collector)
-- [RelatedProductsRestApi ^1.3.0](https://github.com/spryker/related-products-rest-api) (Glue)
-- [UpSellingProductsRestApi ^1.2.0](https://github.com/spryker/up-selling-products-rest-api) (Glue)
+- [RelatedProductsRestApi ^1.3.0](https://github.com/spryker/related-products-rest-api) (Legacy Glue)
+- [UpSellingProductsRestApi ^1.2.0](https://github.com/spryker/up-selling-products-rest-api) (Legacy Glue)
