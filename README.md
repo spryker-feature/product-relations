@@ -2,6 +2,8 @@
 
 Define a list of items that will be displayed as comparable or additional products.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/product-relationship-management/202307.0/product-relationship-management.html)
+
 ## Installation
 
 ```
