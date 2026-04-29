@@ -10,12 +10,12 @@
         "spryker-shop/product-relation-widget": "^1.4.0",
         "spryker/product-relation": "^3.7.0",
         "spryker/product-relation-data-import": "^1.2.0",
-        "spryker/product-relation-gui": "^2.0.0",
-        "spryker/product-relation-storage": "^2.6.0"
+        "spryker/product-relation-gui": "^2.1.0",
+        "spryker/product-relation-storage": "^2.7.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202602.x-dev"
+            "dev-master": "202604.x-dev"
         }
     },
     "suggest": {
